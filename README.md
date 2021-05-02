@@ -1,5 +1,4 @@
 # homepage
 My very own personal website. Basically this is just a résumé.
 He He
-
-Hocus pocus
+git 
